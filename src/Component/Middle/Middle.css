@@ -1,0 +1,62 @@
+.middle {
+  margin-top: 7px;
+  margin-left: 5px;
+  display: flex;
+}
+.middle__left__middle {
+  border-radius: 20px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  width: 550px;
+}
+
+.middle__left__top {
+  display: flex;
+  color: #fff;
+  font-size: small;
+}
+
+.middle__btn {
+  display: flex;
+  margin-left: 15px;
+}
+
+.middle__left__top > p {
+  margin-right: 15px;
+}
+.middle__left__top > p:first-child {
+  margin-right: 70px;
+}
+#download__text {
+  margin-right: 15px;
+  padding-top: 5px;
+  margin-left: 5px;
+}
+
+.total__application__box {
+  border-radius: 20px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  margin-left: 15px;
+  width: 200px;
+  font-size: small;
+  color: #fff;
+}
+
+.total__application__box > span {
+  margin-bottom: 15px;
+}
+
+.items__application__box {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+#application {
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+.margin__buttom {
+  margin-bottom: 10px;
+}

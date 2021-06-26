@@ -1,0 +1,37 @@
+.sidebar {
+  border-right: 1px solid lightgrey;
+  width: 35px;
+  height: 100%;
+}
+.active__btn {
+  padding: 5px;
+  margin-bottom: 5px;
+  color: rgb(0, 163, 212);
+  border-right: 3px solid rgb(0, 163, 212);
+}
+.sidebar__btn {
+  color: #f4f4f4;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.sidebar__btn:hover {
+  color: rgb(0, 163, 212);
+  border-right: 3px solid rgb(0, 163, 212);
+}
+
+.sidebar__top {
+  padding-top: 20px;
+  margin-bottom: 30px;
+}
+
+.sidebar__middle {
+  margin-bottom: 30px;
+}
+
+.sidebar__end {
+  margin-top: 170px;
+}
+
+.test {
+  background-color: blueviolet;
+}

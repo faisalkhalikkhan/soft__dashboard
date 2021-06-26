@@ -1,0 +1,36 @@
+.card {
+  width: 230px;
+  height: 100px;
+  border-radius: 20px;
+  border: 1px solid lightgray;
+  padding: 10px;
+  color: #fff;
+}
+
+.card__top {
+  display: flex;
+  justify-content: space-between;
+}
+.card__top > p {
+  padding-top: 2px;
+  font-size: smaller;
+}
+
+.card__middle {
+  display: flex;
+  justify-content: space-between;
+}
+
+#number {
+  font-size: x-large;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.middle__left > span {
+  font-size: 10px;
+}
+
+#icon {
+  color: #fff !important;
+}

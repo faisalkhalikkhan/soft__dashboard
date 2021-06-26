@@ -1,0 +1,60 @@
+.header {
+  padding: 10px;
+}
+.btn__white {
+  color: aliceblue !important;
+}
+
+.header__top {
+  display: flex;
+  right: 5px;
+  position: absolute;
+}
+
+#hero__text {
+  color: #fff;
+  margin-left: 10px;
+  font-size: large;
+  margin-right: 5px;
+  padding-top: 3px;
+}
+
+.header__end {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__end__left {
+  margin-top: 40px;
+  color: #fff;
+  margin-left: 15px;
+}
+
+.header__end__left > span {
+  font-size: x-large;
+}
+
+.header__end__left > p {
+  font-size: small;
+}
+
+.header__end__left > p > span {
+  color: rgb(0, 163, 212);
+}
+
+.header__end__right {
+  display: flex;
+  margin-top: 45px;
+}
+
+.input__box {
+  display: flex;
+  margin-left: 25px;
+  color: lightgray;
+  margin-right: 20px;
+}
+
+.input__box > input {
+  background: transparent;
+  border: none;
+}
